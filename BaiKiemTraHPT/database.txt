@@ -1,0 +1,7 @@
+1	NguyenVanA	3	5
+2	LeThiB	5
+3	NguyenC	7
+4	ABC	3	8
+5	NguyenD	5
+6	LeThiB	3	7
+7	PhanVanQuan	2	1
